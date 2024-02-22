@@ -1,0 +1,29 @@
+_repo: Tarzan-lord-of-the-jungle_72938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2024-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72938'
+language: en
+pgterms:marc905: 20230423060348burroughs
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bGrosset & Dunlap, Publishers, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tarzan, lord of the jungle
+url: http://www.gutenberg.org/ebooks/72938
